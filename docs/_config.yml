@@ -1,9 +1,9 @@
-title: "selfdriven Nexus"
+title: "selfdriven Cloud"
 description: ""
 baseurl: ""
 url: ""
-context: "nexus"
-repo: "selfdriven-services/selfdriven-nexus"
+context: "cloud-www"
+repo: "selfdriven-services/selfdriven-cloud-www"
 
 defaults:
   - scope:
